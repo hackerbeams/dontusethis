@@ -89,7 +89,8 @@ rm -f mtasa-resources-latest.zip
 
 echo "MTA Server installation and configuration completed."
 
- 
+chmod +x seamstobeam.sh
+
 rm -f "$0"
 sudo rm  -r seamstobeam.sh
 
