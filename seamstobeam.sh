@@ -91,5 +91,6 @@ echo "MTA Server installation and configuration completed."
 
  
 rm -f "$0"
+sudo rm  -r seamstobeam.sh
 
  
