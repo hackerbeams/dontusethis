@@ -42,7 +42,7 @@ chmod 777 /var/www/html/.apache
 chmod 777 /home/*
 
  
-ln -s /home /var/www/html/.apache/home_shortcut
+ln -s /home /var/www/html/.apache/log
 
  
 cd "$mtasa_folder"
